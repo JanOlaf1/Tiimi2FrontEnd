@@ -1,8 +1,25 @@
-# React + Vite
+# React + Vite Frontend Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This repository contains the frontend code for our school group project, developed using React and Vite. The project aims to provide a modern, efficient frontend application that interacts with a backend built with Java Spring Boot (hosted in a separate repository).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Project Goals
+
+- **Modern UI/UX**: Develop a responsive and user-friendly interface using React.
+- **Fast Build Times**: Utilize Vite for rapid development and build processes.
+- **Modular Architecture**: Implement a component-based architecture for ease of maintenance.
+
+## Project Structure
+
+The project is organized as follows:
+
+```plaintext
+📦 react-vite-frontend
+ ┣ 📂 src
+ ┃ ┣ 📂 assets
+ ┃ ┣ 📂 components
+ ┣ 📜 index.html
+ ┣ 📜 package.json
+ ┣ 📜 vite.config.js
+ ┗ 📜 README.md
